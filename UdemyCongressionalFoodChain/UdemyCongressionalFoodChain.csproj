@@ -66,6 +66,7 @@
     <Compile Include="DangerZoneFactory.cs" />
     <Compile Include="ForeignDictator.cs" />
     <Compile Include="ForeignKingdom.cs" />
+    <Compile Include="GoverningBody.cs" />
     <Compile Include="LittlePerson.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
