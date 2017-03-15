@@ -15,7 +15,7 @@ namespace UdemyCongressionalFoodChain
             gb.Run();
 
             DangerZoneFactory fact2 = new ForeignKingdomFactory();
-            GoverningBody gb2 = new GoverningBody(fact1);
+            GoverningBody gb2 = new GoverningBody(fact2);
             gb2.Run();
         }
     }
