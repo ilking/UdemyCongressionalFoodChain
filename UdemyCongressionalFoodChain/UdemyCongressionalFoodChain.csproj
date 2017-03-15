@@ -65,7 +65,7 @@
     <Compile Include="CongressMan.cs" />
     <Compile Include="DangerZoneFactory.cs" />
     <Compile Include="ForeignDictator.cs" />
-    <Compile Include="ForeignKingdom.cs" />
+    <Compile Include="ForeignKingdomFactory.cs" />
     <Compile Include="GoverningBody.cs" />
     <Compile Include="LittlePerson.cs" />
     <Compile Include="Program.cs" />

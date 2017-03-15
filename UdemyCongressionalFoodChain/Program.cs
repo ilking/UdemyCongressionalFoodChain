@@ -10,7 +10,13 @@ namespace UdemyCongressionalFoodChain
     {
         static void Main(string[] args)
         {
-            
+            DangerZoneFactory fact1 = new CongressFactory();
+            GoverningBody gb = new GoverningBody(fact1);
+            gb.Run();
+
+            DangerZoneFactory fact2 = new ForeignKingdomFactory();
+            GoverningBody gb2 = new GoverningBody(fact1);
+            gb2.Run();
         }
     }
 }

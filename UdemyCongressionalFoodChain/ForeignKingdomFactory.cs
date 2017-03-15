@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace UdemyCongressionalFoodChain
 {
-    class ForeignKingdom : DangerZoneFactory
+    class ForeignKingdomFactory : DangerZoneFactory
     {
         public override BigWig CreateBigWig()
         {

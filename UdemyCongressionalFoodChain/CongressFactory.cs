@@ -15,9 +15,8 @@ namespace UdemyCongressionalFoodChain
 
         public override LittlePerson CreateLittlePerson()
         {
-            return new Citizen();
+            return new AmericanJoe();
         }
 
-        public override 
     }
 }
